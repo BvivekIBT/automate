@@ -1,0 +1,23 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BvivekIBT/automate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BvivekIBT/automate/issues"
+  },
+  "homepage": "https://github.com/BvivekIBT/automate#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
